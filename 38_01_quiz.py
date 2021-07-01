@@ -6,6 +6,7 @@ for _ in range(n):
     r = ((x1 - x2)**2 + (y1 - y2)**2)**0.5
     R = [r, r1, r2]
     max_r = max(R)
+    
     R.remove(max_r)
     if r == 0 and r1 == r2:
         print(-1)
