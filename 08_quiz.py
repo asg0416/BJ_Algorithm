@@ -1,4 +1,4 @@
-# replace 함수 사용 법 익히기
+# replace 함수 사용 법 익히는 문제
 
 cro_alpha_sample = ['c=', 'c-', 'dz=', 'd-', 'lj', 'nj', 's=', 'z=']
 cro_alpha = input()
