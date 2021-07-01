@@ -54,6 +54,7 @@ class Queue():
         else:
             return self.tail.data
 
+
 queue = Queue()
 n = int(stdin.readline())
 for _ in range(n):
