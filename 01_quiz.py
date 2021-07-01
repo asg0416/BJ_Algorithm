@@ -1,6 +1,5 @@
 a, b = input().split()
 
-
 # 입력값 숫자 변환
 a = int(a)
 b = int(b)
